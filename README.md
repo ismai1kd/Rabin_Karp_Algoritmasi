@@ -138,3 +138,14 @@ Başarılı bir test çalıştırması sonucunda terminalde aşağıdaki gibi bi
 - **Çoklu Desen Arama:** Algoritmayı çoklu hash desteği ile genişletebilirsiniz.
 - **Hash Çakışmaları:** Çakışma durumlarını azaltmak için prime number seçimine dikkat edin.
 
+---
+
+## 🧑‍💻 Kod Tasarlayıcıları
+- **Kod ve Repo Yöneticisi:** 👉 İsmail Bayhan Yaltırık  
+- **Kod ve Repo Yönetici Yardımcısı:** 👉 Elif Su Baydarlı  
+
+
+- 📚 Eğer Aklınıza Takılan Bir Soru Olursa Lütfen Yöneticinin Kendi Web Sitesinden Ulaşınız.  
+  Web Siteye Ulaşmak İçin 👉👉 [İsmail Yaltırık](https://www.ismailyaltirik.com)
+
+---
