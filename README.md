@@ -84,6 +84,47 @@ Rabin-Karp algoritması, aşağıdaki durumlarda sıklıkla kullanılır:
 
 ---
 
+## 🛠️ Projenin Derlenmesi ve Test Edilmesi
+
+### 🔨 Nasıl Derlenir?
+Proje dosyalarını derlemek için aşağıdaki adımları takip edin.
+
+#### Gereksinimler
+1. **C++ Derleyicisi**:  
+   - Tasarlayıcı kişi **MinGW**'yi indirerek programı derleyip ardından çalıştırmıştır.
+   - Eğer siz ***MinGW** indirmek istemiyor iseniz **Visual Studio Code veya CodeBlocks** kullanabilirsiniz.
+
+2. **Dosya Yapısı**:  
+   Proje dosyalarının aşağıdaki gibi düzenlenmiş olduğundan emin olun:
+   **Proje_Klasoru/ ├── Kod_Dosyasi/ │ ├── Rabin_Karp_Algoritmasi.cpp │ ├── Rabin_Karp_Algoritmasi.h ├── Test_Dosyasi/ │ ├── Rabin_Karp_Algoritmasi_Test.cpp**
+
+3. **Kodun Derlenmesi**:  
+   Terminalde veya CMD üzerinden aşağıdaki komutu çalıştırarak proje dosyalarını derleyebilirsiniz::
+   **g++ Test_Dosyasi/Rabin_Karp_Algoritmasi_Test.cpp Kod_Dosyasi/Rabin_Karp_Algoritmasi.cpp -o RabinKarpTest**
+---
+
+## 🧪 Nasıl Test Çalıştırılır?
+
+Kodun doğruluğunu kontrol etmek için test dosyasını çalıştırabilirsiniz.
+
+### Çalıştırma Adımları
+1. Derleme tamamlandıktan sonra, aşağıdaki komutu çalıştırarak testleri başlatabilirsiniz:
+
+    **GIT Bash** ile çalıştıracaksanız: ./RabinKarpTest
+    **CMD veya Terminal** ile çalıştıracaksanız: RabinKarpTest
+
+### Beklenen Çıktı
+Başarılı bir test çalıştırması sonucunda terminalde aşağıdaki gibi bir çıktı görmelisiniz:
+
+👉Test 1 başarıyla geçti: Basit eşleşme
+👉Test 2 başarıyla geçti: Tek eşleşme
+👉Test 3 başarıyla geçti: Eşleşme yok
+👉Test 4 başarıyla geçti: Çakışan hash değerleri
+👉Test 5 başarıyla geçti: Boş metin
+👉Test 6 başarıyla geçti: Boş desen
+
+---
+
 ## 📚 Kaynaklar
 - [GeeksforGeeks: Rabin-Karp Algorithm](https://www.geeksforgeeks.org/rabin-karp-algorithm-for-pattern-searching/)
 - [Wikipedia: Rabin–Karp Algorithm](https://en.wikipedia.org/wiki/Rabin%E2%80%93Karp_algorithm)
