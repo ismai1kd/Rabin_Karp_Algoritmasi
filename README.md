@@ -110,7 +110,7 @@ Kodun doğruluğunu kontrol etmek için test dosyasını çalıştırabilirsiniz
 ### Çalıştırma Adımları
 1. Derleme tamamlandıktan sonra, aşağıdaki komutu çalıştırarak testleri başlatabilirsiniz:
 
-    **GIT Bash** ile çalıştıracaksanız: ./RabinKarpTest
+    **GIT Bash** ile çalıştıracaksanız: ./RabinKarpTest  
     **CMD veya Terminal** ile çalıştıracaksanız: RabinKarpTest
 
 ### Beklenen Çıktı
