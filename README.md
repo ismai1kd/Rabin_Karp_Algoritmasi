@@ -93,6 +93,7 @@ Proje dosyalarını derlemek için aşağıdaki adımları takip edin.
 1. **C++ Derleyicisi**:  
    - Tasarlayıcı kişi **MinGW**'yi indirerek programı derleyip ardından çalıştırmıştır.
    - Eğer siz **MinGW** indirmek istemiyor iseniz **Visual Studio Code veya CodeBlocks** kullanabilirsiniz.
+   - **MinGW** derleyicisini indirmek için lütfen tıklayınız. 👉 [MinGW](https://sourceforge.net/projects/mingw/)
 
 2. **Dosya Yapısı**:  
    Proje dosyalarının aşağıdaki gibi düzenlenmiş olduğundan emin olun:  
