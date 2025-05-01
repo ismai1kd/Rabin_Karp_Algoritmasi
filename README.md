@@ -116,12 +116,11 @@ Kodun doğruluğunu kontrol etmek için test dosyasını çalıştırabilirsiniz
 ### Beklenen Çıktı
 Başarılı bir test çalıştırması sonucunda terminalde aşağıdaki gibi bir çıktı görmelisiniz:
 
-##
-👉Test 1 başarıyla geçti: Basit eşleşme
-👉Test 2 başarıyla geçti: Tek eşleşme
-👉Test 3 başarıyla geçti: Eşleşme yok
-👉Test 4 başarıyla geçti: Çakışan hash değerleri
-👉Test 5 başarıyla geçti: Boş metin
+👉Test 1 başarıyla geçti: Basit eşleşme  
+👉Test 2 başarıyla geçti: Tek eşleşme  
+👉Test 3 başarıyla geçti: Eşleşme yok  
+👉Test 4 başarıyla geçti: Çakışan hash değerleri  
+👉Test 5 başarıyla geçti: Boş metin  
 👉Test 6 başarıyla geçti: Boş desen
 
 ---
