@@ -1,6 +1,7 @@
 # Rabin_Karp_Algoritmasi
 Rabin_Karp_Algoritmasi
 
+---
 # Repo Sahibi
 👉 Repo'yu Atan: **İsmail Bayhan Yaltırık**  
 👉 Atan Kişinin Numarası: **F241230022**  
