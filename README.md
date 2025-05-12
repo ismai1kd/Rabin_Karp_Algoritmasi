@@ -1,6 +1,14 @@
 # Rabin_Karp_Algoritmasi
 Rabin_Karp_Algoritmasi
 
+# Repo Sahibi
+👉 Repo'yu Atan: **İsmail Bayhan Yaltırık**
+👉 Atan Kişinin Numarası: **F241230022**
+👉 Bölümü: **Yapay Zeka ve Makine Öğrenmesi Mühendisliği**
+👉 Üniversitesi: **Konya Teknik Üniversitesi**
+👉 Ders: **Algoritma**
+
+---
 # 📚 Rabin-Karp Algoritması
 
 ## 🔍 Algoritmanın Tanıtımı
