@@ -1,4 +1,4 @@
-# Rabin_Karp_Algoritmasi_İsmail_Bayhan_Yaltırık_F241230022
+# Rabin_Karp_Algoritmasi
 Rabin_Karp_Algoritmasi_İsmail_Bayhan_Yaltırık_F241230022
 
 ---
